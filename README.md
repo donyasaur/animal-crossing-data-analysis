@@ -11,7 +11,7 @@ This project analyzes the features of items in Animal Crossing: New Horizons tha
 ## Dataset
 
 - [Animal Crossing New Horizons Nook Plaza Dataset](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset)
-- Example file analyzed: `accessories.csv`
+
 
 ## How to Run
 
